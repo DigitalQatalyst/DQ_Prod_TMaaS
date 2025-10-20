@@ -1,0 +1,25 @@
+{
+  "$schema": "https://unpkg.com/knip/schema.json",
+  "workspaces": {
+    ".": {
+      "entry": ["src/index.tsx"],
+
+      "ignorePaths": [
+        "public/**",
+        "src/pages/**",
+        "src/pages/api/**",
+        "src/server/**",
+        "src/admin-ui/**",
+        "src/test*/**",
+        "src/**/mock*.ts",
+        "src/**/mockData.ts",
+        ".unused_backup/**"
+      ],
+
+      "ignore": [
+        "src/utils/mediaUtils.ts::createPeerConnection",
+        "src/utils/mediaUtils.ts::startCall"
+      ]
+    }
+  }
+}
