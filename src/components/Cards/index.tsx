@@ -14,12 +14,12 @@ export { ResourceCard } from './ResourceCard';
 // export { MarketplaceCard } from './MarketplaceCard';
 // TYPES - For TypeScript Support
 // export type { UnifiedCardProps, CardContent, CardVariantConfig, ResponsiveCardGridProps } from './UnifiedCard';
-export type { NewsCardProps, NewsItem } from './NewsCard';
-export type { EventCardProps, EventItem } from './EventCard';
+// export type { NewsCardProps, NewsItem } from './NewsCard';
+// export type { EventCardProps, EventItem } from './EventCard';
 // export type { PromoCardProps, PromoItem } from './PromoCard';
 // export type { FeatureCardProps, FeatureItem } from './FeatureCard';
-export type { ServiceHighlightCardProps, ServiceHighlightItem } from './ServiceHighlightCard';
-export type { ResourceCardProps, ResourceItem } from './ResourceCard';
+// export type { ServiceHighlightCardProps, ServiceHighlightItem } from './ServiceHighlightCard';
+// export type { ResourceCardProps, ResourceItem } from './ResourceCard';
 // export type { ServiceCardProps, ServiceItem } from './ServiceCard';
 // export type { ReportCardProps, ReportItem } from './ReportCard';
 // export type { MarketplaceCardProps, MarketplaceItem } from './MarketplaceCard';
